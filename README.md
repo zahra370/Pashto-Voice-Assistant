@@ -72,7 +72,12 @@ Generates audio in MP3 format
 
 Optimized for clarity, natural pronunciation, and low latency
 
-This stage ensures fully conversational, interactive Pashto communication.
+## Project Architecture Diagram
+
+This stage ensures fully conversational, interactive Pashto communication.  
+The project architecture diagram is shown below:
+
+![Pashto Voice Assistant Architecture](pashto-voice-assistant.jpeg)
 
 ![Pashto Voice Assistant](voice-assistant.png)
 
